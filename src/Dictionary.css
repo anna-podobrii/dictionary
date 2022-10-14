@@ -16,12 +16,12 @@ margin-top: 20px;
   border-top: 1px solid #cbc3d0;
 }
 .synonimItem{
-  padding: 5px;
-border-radius: 25px;
-  border: 2px solid #7513b5;
+  padding: 1px 3px;
+border-radius: 10px;
+  border: 1px solid #7513b5;
 }
 .synonim{
-  margin: 10px 2px;
+  margin: 0px 2px;
 }
 strong{
   color: #874aaf;
