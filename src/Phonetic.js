@@ -9,7 +9,7 @@ export default function Phonetic(props) {
           return (
             <div key={index}>
               <span>
-                <a href={phonetic.audio} target="_blank">
+                <a href={phonetic.audio} target="_blank" rel="noreferrer">
                   {" "}
                   Listen{" "}
                 </a>

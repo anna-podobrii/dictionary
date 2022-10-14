@@ -15,7 +15,7 @@ export default function Result(props) {
         </p>
         {props.result.meanings.map(function (meaning, index) {
           return (
-            <div key={index}>
+            <div key={index} >
               <Meaning meaning={meaning} />
             </div>
           );

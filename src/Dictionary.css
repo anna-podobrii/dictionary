@@ -1,4 +1,32 @@
 .Dictionary {
- 
   margin: 30px auto;
+}
+.Synonims{
+  margin-top: 20px;
+}
+.Meaning{
+  text-align: start; 
+margin-top: 20px;
+}
+/* .meaningItem{
+  border-bottom: 2px solid #7513b5;
+} */
+.meaningTop{
+  
+  border-top: 1px solid #cbc3d0;
+}
+.synonimItem{
+  padding: 5px;
+border-radius: 25px;
+  border: 2px solid #7513b5;
+}
+.synonim{
+  margin: 10px 2px;
+}
+strong{
+  color: #874aaf;
+  font-weight: 400;
+}
+h2{
+  font-weight: 700;
 }
